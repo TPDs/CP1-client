@@ -7,8 +7,8 @@ public class Client {
 
 
     public void client(){
-    //String serverName = "10.111.176.36"; // 10.111.176.36
-    String serverName = "94.18.243.144";
+    String serverName = "10.111.176.36"; // 10.111.176.36
+  //  String serverName = "94.18.243.144";
     int port = Integer.parseInt("48880");
 
     try {
